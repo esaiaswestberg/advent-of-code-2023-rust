@@ -24,4 +24,8 @@ First of all, I would like to say that I do not recommend copying my solutions. 
 
 ### Day 03
 
+[Problem](https://adventofcode.com/2023/day/3) | [Solution](day-03/src/lib.rs)
+
+### Day 04
+
 TBD
